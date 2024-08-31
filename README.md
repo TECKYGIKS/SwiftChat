@@ -31,17 +31,17 @@ Official Launch: ⏳ Planned <br/>
 Here are some snapshots of Swift-Chat in action:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="docs/WhatsApp Image 2024-08-30 at 18.41.10_536d7033.jpg" alt="Login Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Message_Page.png" alt="Message Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Chat_Interface.png" alt="Chat Interface" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/User_Profile.png" alt="User Profile" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Settings_Page.png" alt="Settings Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Notification_Page.png" alt="Notification Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Onboarding_Screen.png" alt="Onboarding Screen" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Chat_List_1.png" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Chat_List_2.png" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Chat_List_3.png" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="docs/Chat_List_4.png" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/Chats Interface.jpg" alt="Login Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docsdocs/Email Login.jpg" alt="Message Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/Home Page.jpg" alt="Chat Interface" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/Log Out.jpg" alt="User Profile" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/Login or Register.jpg" alt="Settings Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/Notification.jpg" alt="Notification Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/OTP Verification.jpg" alt="Onboarding Screen" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/Profile.jpg" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/Chat_List_2.png" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/StartUp Page.jpg" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="Docs/docs/Saved Chats.jpg" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 

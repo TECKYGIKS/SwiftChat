@@ -39,7 +39,7 @@ Here are some snapshots of Swift-Chat in action:
     <img src="docs/Notification.jpg" alt="Notification Page" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     <img src="docs/OTP Verification.jpg" alt="Onboarding Screen" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     <img src="docs/Profile.jpg" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <img src="Chat_List_2.png" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="docs/Chat_List_2.png" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     <img src="docs/StartUp Page.jpg" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     <img src="docs/Saved Chats.jpg" alt="Chat List" style="width: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
